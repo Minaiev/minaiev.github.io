@@ -20,7 +20,7 @@ div.clients {
 }
 
 div.text {
-    background-color: #CAB2D9;
+    background-color: #990059;
     font-family: Roboto, Tahoma, sans-serif;
 
 }
@@ -60,7 +60,7 @@ p {
     width: 60%;
 }
 
-/* Add the class selector to this CSS rule */
+
 .partner, .prop{
     text-align: center;
 }
