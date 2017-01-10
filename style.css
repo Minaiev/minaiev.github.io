@@ -2,6 +2,9 @@ div.header {
     margin: 0 auto;
     position: relative;
     text-align: center;
+    color: ForestGreen;
+    font-family: desdemona;
+    font-size: 50 px;
 }
 div.info {
     margin: 0 auto;
@@ -18,9 +21,4 @@ div.text {
     background-color: #7D02C9;
     font-family: Roboto, "Times New Roman", sans-serif;
 
-}
-h1 {
-+ color: ForestGreen;
-+ font-family: desdemona;
-+ font-size: 50 px;
 }
