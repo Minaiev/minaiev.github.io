@@ -31,8 +31,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483707409611</updated>
-      <workItem from="1483707410958" duration="6633000" />
+      <workItem from="1483707410958" duration="6693000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1483707557742</created>
@@ -347,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484074236099</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Full project&#10;changes with css">
+      <created>1484074364458</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1484074364458</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6633000" />
+    <option name="totallyTimeSpent" value="6693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -407,7 +414,8 @@
     <MESSAGE value="logo update" />
     <MESSAGE value="test" />
     <MESSAGE value="Full project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Full project" />
+    <MESSAGE value="Full project&#10;changes with css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full project&#10;changes with css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -424,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
