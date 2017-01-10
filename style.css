@@ -8,8 +8,10 @@ div.header {
 }
 div.info {
     margin: 0 auto;
-    position: relative;
     text-align: center;
+    position: relative;
+    top: 25%;
+    width: 60%;
 }
 div.clients {
     margin: 0 auto;
@@ -18,7 +20,7 @@ div.clients {
 }
 
 div.text {
-    background-color: #7D02C9;
+    background-color: #CAB2D9;
     font-family: Roboto, Tahoma, sans-serif;
 
 }
