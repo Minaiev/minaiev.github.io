@@ -2,7 +2,7 @@ div.header {
     margin: 0 auto;
     position: relative;
     text-align: center;
-    color: ForestGreen;
+    color: #990059;
     font-family: desdemona;
     font-size: 100 px;
 }
@@ -20,7 +20,7 @@ div.clients {
 }
 
 div.text {
-    background-color: #990059;
+    /*background-color: #990059;*/
     font-family: Roboto, Tahoma, sans-serif;
 
 }
