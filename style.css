@@ -61,10 +61,10 @@ p {
 }
 
 
-.partner, .prop{
+.prop{
     text-align: center;
 }
-.partner {
+/*.partner {
     padding: 20px;
     margin: 0 auto;
     border-bottom: 1px solid #EEE;
@@ -76,7 +76,7 @@ p {
 }
 
 .aa-logo {
-    padding-left: 6px;
+    padding-left: 6px;*/
 }
 
 .main {
