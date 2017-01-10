@@ -1,21 +1,21 @@
 div.header {
-    background-color: #7D02C9;
-    font-family: Roboto, Helvetica, sans-serif;
     margin: 0 auto;
     position: relative;
     text-align: center;
 }
 div.info {
-    background-color: #7D02C9;
-    font-family: Roboto, Helvetica, sans-serif;
     margin: 0 auto;
     position: relative;
     text-align: center;
 }
 div.clients {
-    background-color: #7D02C9;
-    font-family: Roboto, Helvetica, sans-serif;
     margin: 0 auto;
     position: relative;
     text-align: center;
+}
+
+div.clients {
+    background-color: #7D02C9;
+    font-family: Roboto, "Times New Roman", sans-serif;
+
 }
