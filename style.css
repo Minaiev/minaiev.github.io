@@ -4,7 +4,7 @@ div.header {
     text-align: center;
     color: ForestGreen;
     font-family: desdemona;
-    font-size: 50 px;
+    font-size: 100 px;
 }
 div.info {
     margin: 0 auto;
@@ -19,6 +19,6 @@ div.clients {
 
 div.text {
     background-color: #7D02C9;
-    font-family: Roboto, "Times New Roman", sans-serif;
+    font-family: Roboto, Tahoma, sans-serif;
 
 }
