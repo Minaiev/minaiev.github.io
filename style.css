@@ -4,7 +4,7 @@ div.header {
     text-align: center;
     color: #990059;
     font-family: desdemona;
-    font-size: 150 px;
+    font-size: 100 px;
 }
 div.info {
     margin: 0 auto;
@@ -20,6 +20,7 @@ div.clients {
 }
 
 div.text {
+    /*background-color: #990059;*/
     font-family: Roboto, Tahoma, sans-serif;
 
 }
@@ -63,7 +64,6 @@ p {
 .partner, .prop{
     text-align: center;
 }
-
 .partner {
     padding: 20px;
     margin: 0 auto;
@@ -78,7 +78,6 @@ p {
 .aa-logo {
     padding-left: 6px;
 }
-
 
 .main {
     background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
