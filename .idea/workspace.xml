@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="514" lean-forward="false" selection-start-line="12" selection-start-column="514" selection-end-line="12" selection-end-column="514" />
+              <caret line="12" column="520" lean-forward="false" selection-start-line="12" selection-start-column="520" selection-end-line="12" selection-end-column="520" />
               <folding />
             </state>
           </provider>
@@ -175,14 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483707409611</updated>
-      <workItem from="1483707410958" duration="12511000" />
-    </task>
-    <task id="LOCAL-00011" summary="new html style">
-      <created>1484061887630</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1484061887630</updated>
+      <workItem from="1483707410958" duration="12763000" />
     </task>
     <task id="LOCAL-00012" summary="new html style">
       <created>1484061892812</created>
@@ -520,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484145435570</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Full project&#10;1.0 knopka call navi">
+      <created>1484145553401</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1484145553401</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12511000" />
+    <option name="totallyTimeSpent" value="12763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -617,7 +617,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="514" lean-forward="false" selection-start-line="12" selection-start-column="514" selection-end-line="12" selection-end-column="514" />
+          <caret line="12" column="520" lean-forward="false" selection-start-line="12" selection-start-column="520" selection-end-line="12" selection-end-column="520" />
           <folding />
         </state>
       </provider>
