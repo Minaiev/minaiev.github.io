@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="503" lean-forward="false" selection-start-line="12" selection-start-column="503" selection-end-line="12" selection-end-column="503" />
+              <caret line="12" column="514" lean-forward="false" selection-start-line="12" selection-start-column="514" selection-end-line="12" selection-end-column="514" />
               <folding />
             </state>
           </provider>
@@ -175,14 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483707409611</updated>
-      <workItem from="1483707410958" duration="12370000" />
-    </task>
-    <task id="LOCAL-00010" summary="new html style">
-      <created>1484061820037</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1484061820037</updated>
+      <workItem from="1483707410958" duration="12511000" />
     </task>
     <task id="LOCAL-00011" summary="new html style">
       <created>1484061887630</created>
@@ -520,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484145264294</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Full project&#10;1.0 knopka call navi">
+      <created>1484145435570</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1484145435570</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12370000" />
+    <option name="totallyTimeSpent" value="12511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -590,7 +590,8 @@
     <MESSAGE value="Full project&#10;1.0 rabotaet so scrollom" />
     <MESSAGE value="Full project&#10;1.0 knopka call" />
     <MESSAGE value="Full project&#10;1.0 knopka call izmenenie shrifta" />
-    <option name="LAST_COMMIT_MESSAGE" value="Full project&#10;1.0 knopka call izmenenie shrifta" />
+    <MESSAGE value="Full project&#10;1.0 knopka call navi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full project&#10;1.0 knopka call navi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -616,7 +617,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="503" lean-forward="false" selection-start-line="12" selection-start-column="503" selection-end-line="12" selection-end-column="503" />
+          <caret line="12" column="514" lean-forward="false" selection-start-line="12" selection-start-column="514" selection-end-line="12" selection-end-column="514" />
           <folding />
         </state>
       </provider>
