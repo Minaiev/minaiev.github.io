@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d9b84b8-48ef-4534-9d21-526e645f9304" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="82" column="21" lean-forward="false" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -171,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483707409611</updated>
-      <workItem from="1483707410958" duration="9115000" />
+      <workItem from="1483707410958" duration="9439000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1483707557742</created>
@@ -432,11 +431,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484140357308</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Full project&#10;1.0 izmen scroll">
+      <created>1484141104228</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1484141104228</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9115000" />
+    <option name="totallyTimeSpent" value="9439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -498,7 +504,8 @@
     <MESSAGE value="Full project&#10;1.0 test s zakoment chastu" />
     <MESSAGE value="Full project&#10;1.0 rabotaet" />
     <MESSAGE value="Full project&#10;1.0 izmen razmer kart" />
-    <option name="LAST_COMMIT_MESSAGE" value="Full project&#10;1.0 izmen razmer kart" />
+    <MESSAGE value="Full project&#10;1.0 izmen scroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full project&#10;1.0 izmen scroll" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -523,8 +530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="82" column="21" lean-forward="false" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
