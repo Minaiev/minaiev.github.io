@@ -67,7 +67,22 @@ p {
     background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/shards.png");
     margin: 0;
     padding: 40px;
+    height: 500px;
+    overflow: scroll;
 }
+
+
+
+/*.content-box {
+    background: rgba(255, 255, 255, 0.9);
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    top: 220px;
+    width: 80%;
+    overflow: scroll;*/
+
+
 
 .value-props {
     margin: 40px auto;
